@@ -1,0 +1,230 @@
+[
+  {
+    "id": "sarah-1781334751302",
+    "visitorId": "sarah",
+    "memory": {
+      "visitorId": "sarah",
+      "transcript": "rkerler",
+      "faceMatch": {
+        "id": "sarah",
+        "name": "Sarah",
+        "relationship": "daughter",
+        "bio": "Frequent visitor, brings flowers and conversation about her new job.",
+        "faceModel": "demo"
+      },
+      "summary": "rkerler",
+      "surfaceText": "This is Sarah, your daughter. They visited some time ago.",
+      "notes": "Visit captured at 2026-06-13T07:12:31.302Z",
+      "timestamp": "2026-06-13T07:12:31.302Z"
+    },
+    "createdAt": "2026-06-13T07:12:31.302Z"
+  },
+  {
+    "id": "sarah-1781334374008",
+    "visitorId": "sarah",
+    "memory": {
+      "visitorId": "sarah",
+      "transcript": "sarah brought flowers",
+      "faceMatch": {
+        "id": "sarah",
+        "name": "Sarah",
+        "relationship": "daughter",
+        "bio": "Frequent visitor, brings flowers and conversation about her new job.",
+        "faceModel": "demo"
+      },
+      "summary": "sarah brought flowers",
+      "surfaceText": "This is Sarah, your daughter. They visited some time ago.",
+      "notes": "Visit captured at 2026-06-13T07:06:14.002Z",
+      "timestamp": "2026-06-13T07:06:14.002Z"
+    },
+    "createdAt": "2026-06-13T07:06:14.008Z"
+  },
+  {
+    "id": "smoketestuser-1781331399-1781331400356",
+    "visitorId": "smoketestuser-1781331399",
+    "memory": {
+      "visitorId": "smoketestuser-1781331399",
+      "transcript": "Had a lovely conversation. Weather is nice today. Looking forward to the next visit.",
+      "faceMatch": {
+        "id": "smoketestuser-1781331399",
+        "name": "SmokeTestUser-1781331399",
+        "relationship": "test",
+        "bio": "Automated smoke test",
+        "faceModel": "data",
+        "faceImage": "faces/smoketestuser-1781331399.png",
+        "faceHash": "dc85c5464cb185d12c9017316677f48cf0d042f63670c014a671cff96cb7847c",
+        "faceEmbedding": [
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695
+        ],
+        "facePHash": null,
+        "createdAt": "2026-06-13T06:16:40.169Z"
+      },
+      "summary": "Had a lovely conversation. Weather is nice today",
+      "surfaceText": "This is SmokeTestUser-1781331399, your test. They visited some time ago.",
+      "notes": "Visit captured at 2026-06-13T06:16:40.355Z",
+      "timestamp": "2026-06-13T06:16:40.355Z"
+    },
+    "createdAt": "2026-06-13T06:16:40.356Z"
+  },
+  {
+    "id": "smoketestuser-1781331205-1781331205443",
+    "visitorId": "smoketestuser-1781331205",
+    "memory": {
+      "visitorId": "smoketestuser-1781331205",
+      "transcript": "Had a lovely conversation. Weather is nice today. Looking forward to the next visit.",
+      "faceMatch": {
+        "id": "smoketestuser-1781331205",
+        "name": "SmokeTestUser-1781331205",
+        "relationship": "test",
+        "bio": "Automated smoke test",
+        "faceModel": "data",
+        "faceImage": "faces/smoketestuser-1781331205.png",
+        "faceHash": "dc85c5464cb185d12c9017316677f48cf0d042f63670c014a671cff96cb7847c",
+        "faceEmbedding": [
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695,
+          0.17677669529663695
+        ],
+        "facePHash": null,
+        "createdAt": "2026-06-13T06:13:25.273Z"
+      },
+      "summary": "Had a lovely conversation. Weather is nice today",
+      "surfaceText": "This is SmokeTestUser-1781331205, your test. They visited some time ago.",
+      "notes": "Visit captured at 2026-06-13T06:13:25.441Z",
+      "timestamp": "2026-06-13T06:13:25.441Z"
+    },
+    "createdAt": "2026-06-13T06:13:25.443Z"
+  },
+  {
+    "id": "smoketestuser-1781330957-1781330957808",
+    "visitorId": "smoketestuser-1781330957",
+    "memory": {
+      "visitorId": "smoketestuser-1781330957",
+      "transcript": "Had a lovely conversation. Weather is nice today. Looking forward to the next visit.",
+      "faceMatch": {
+        "id": "smoketestuser-1781330957",
+        "name": "SmokeTestUser-1781330957",
+        "relationship": "test",
+        "bio": "Automated smoke test",
+        "faceModel": "data",
+        "faceImage": "faces/smoketestuser-1781330957.png",
+        "faceHash": "dc85c5464cb185d12c9017316677f48cf0d042f63670c014a671cff96cb7847c",
+        "facePHash": null,
+        "createdAt": "2026-06-13T06:09:17.520Z"
+      },
+      "summary": "Had a lovely conversation.  Weather is nice today.  Looking forward to the next visit",
+      "surfaceText": "This is SmokeTestUser-1781330957, your test. They visited some time ago.",
+      "notes": "Visit captured at 2026-06-13T06:09:17.807Z",
+      "timestamp": "2026-06-13T06:09:17.807Z"
+    },
+    "createdAt": "2026-06-13T06:09:17.808Z"
+  },
+  {
+    "id": "smoketestuser-1781330904-1781330904640",
+    "visitorId": "smoketestuser-1781330904",
+    "memory": {
+      "visitorId": "smoketestuser-1781330904",
+      "transcript": "Had a lovely conversation. Weather is nice today. Looking forward to the next visit.",
+      "faceMatch": {
+        "id": "smoketestuser-1781330904",
+        "name": "SmokeTestUser-1781330904",
+        "relationship": "test",
+        "bio": "Automated smoke test",
+        "faceModel": "data",
+        "faceImage": "faces/smoketestuser-1781330904.png",
+        "faceHash": "dc85c5464cb185d12c9017316677f48cf0d042f63670c014a671cff96cb7847c",
+        "facePHash": null,
+        "createdAt": "2026-06-13T06:08:24.517Z"
+      },
+      "summary": "Had a lovely conversation.  Weather is nice today.  Looking forward to the next visit",
+      "surfaceText": "This is SmokeTestUser-1781330904, your test. They visited some time ago.",
+      "notes": "Visit captured at 2026-06-13T06:08:24.640Z",
+      "timestamp": "2026-06-13T06:08:24.640Z"
+    },
+    "createdAt": "2026-06-13T06:08:24.641Z"
+  },
+  {
+    "id": "smoketestuser-1781330768-1781330768299",
+    "visitorId": "smoketestuser-1781330768",
+    "memory": {
+      "visitorId": "smoketestuser-1781330768",
+      "transcript": "Had a lovely conversation. Weather is nice today. Looking forward to the next visit.",
+      "faceMatch": {
+        "id": "smoketestuser-1781330768",
+        "name": "SmokeTestUser-1781330768",
+        "relationship": "test",
+        "bio": "Automated smoke test",
+        "faceModel": "data",
+        "faceImage": "faces/smoketestuser-1781330768.png",
+        "faceHash": "dc85c5464cb185d12c9017316677f48cf0d042f63670c014a671cff96cb7847c",
+        "facePHash": null,
+        "createdAt": "2026-06-13T06:06:08.150Z"
+      },
+      "summary": "Had a lovely conversation.  Weather is nice today.  Looking forward to the next visit",
+      "surfaceText": "This is SmokeTestUser-1781330768, your test. They visited some time ago.",
+      "notes": "Visit captured at 2026-06-13T06:06:08.297Z",
+      "timestamp": "2026-06-13T06:06:08.297Z"
+    },
+    "createdAt": "2026-06-13T06:06:08.301Z"
+  }
+]
